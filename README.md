@@ -1,4 +1,4 @@
-<img width="651" height="355" alt="image" src="https://github.com/user-attachments/assets/5c851bb7-1ef2-46f0-98b2-d0b8b7334831" />
+<img width="655" height="284" alt="image" src="https://github.com/user-attachments/assets/32f32e3c-c395-4986-963e-7438abd12616" />
 
 
 # ArtCareer
