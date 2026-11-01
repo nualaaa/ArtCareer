@@ -1,3 +1,6 @@
+<img width="651" height="355" alt="image" src="https://github.com/user-attachments/assets/5c851bb7-1ef2-46f0-98b2-d0b8b7334831" />
+
+
 # ArtCareer
 An SQL model to support artists keeping their career on track.
 
