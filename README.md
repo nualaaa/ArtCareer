@@ -18,7 +18,7 @@ This project focused on constructing the model, rather than creating a program. 
 The goal is to support artists nudging themselves in the correct direction, by spotting trends and understanding the bigger picture of the part of the economy they are in. 
 
 
-## What am I looking at (for non-technical readers):
+## What am I looking at (for non-technical readers)
 
 This is a relational database. You can see the code that builds the structure of the database in the schema file.
 
