@@ -53,7 +53,7 @@ A good chunk of this model is bare bones standard data. Dates, address, amount o
 
 The unique part is where it asks for intuitive judgement calls. It asks to rank “media”, “networking”, “safety”, and “crime” on a scale of 1-5.
 
-Earlier versions of this readme written in a different context went into detail exploring this. However, at time of full publication on GitHub, in the UK we have are in the aftermath of the breaking news regarding Russell Brand and David Walliams. Lucy Beaumont and Sue Perkins have both spoken publicly about the wider dynamics and systems involved which result in harm in cases like these. 
+Earlier versions of this readme written in a different context went into detail exploring this. However, at time of full publication on GitHub, in the UK we are in the aftermath of the breaking news regarding Russell Brand and David Walliams. Lucy Beaumont and Sue Perkins have both spoken publicly about the wider dynamics and systems involved which result in harm in cases like these. 
 
 The visual arts sector closely resembles performing arts in terms of structure and challenges. The complications of workplace rights caused by self employment and project based work, along with the difficult decisions that come with forging a career in a competitive sector, being key among the similarities. 
 
