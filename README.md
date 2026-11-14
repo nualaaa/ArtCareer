@@ -23,9 +23,9 @@ The goal is to support artists nudging themselves in the correct direction, by s
 This is a relational database. You can see the code that builds the structure of the database in the schema file.
 
 The database is split into multiple tables containing different sets of information. These are
-    • galleries you have worked with
-    • projects you’ve worked on
-    • exhibitions you’ve been in
+1. galleries you have worked with
+2. projects you’ve worked on
+3. exhibitions you’ve been in
 
 Data about these three areas frequently overlap. That is why a relational database is useful. You can input the data individually into each table, and then join it back together as required when you use the database. The data in the separate tables *relate* to each other.
 
