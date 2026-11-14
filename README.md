@@ -18,7 +18,7 @@ This project focused on constructing the model, rather than creating a program. 
 The goal is to support artists nudging themselves in the correct direction, by spotting trends and understanding the bigger picture of the part of the economy they are in. 
 
 
-##What am I looking at (for non-technical readers)
+##What am I looking at (for non-technical readers):
 
 This is a relational database. You can see the code that builds the structure of the database in the schema file.
 
@@ -47,7 +47,7 @@ There is also some example data in ExampleData.
 If you want to orientate yourself, the recommended order to view the files in would be Schema, ExampleData, and then ExampleQueries. This is because first you need to design the structure of the database, then you need to input some data, then you can ask it some questions about that data.
 
 
-# The model
+## The model
 
 A good chunk of this model is bare bones standard data. Dates, address, amount of artworks, and so on.
 
@@ -63,7 +63,7 @@ This model can help in two scenarios:
 2. As a way to plot the path of least resistance out of that territory once you are in it.
 
 
-# That sounds useful but I don’t have the skills required to run this myself
+## That sounds useful but I don’t have the skills required to run this myself
 
 That’s fine, you have options:
 
